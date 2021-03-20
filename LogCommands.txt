@@ -1,0 +1,55 @@
+ 249  git remote add origin https://github.com/Cortes-Ces/Repo1.git
+  250  git remote -v
+  251  ls
+  252  cd OneDrive
+  253  ls
+  254  cd Desktop
+  255  ls
+  256  cd Lab6
+  257  git push origin main
+  258  git push origin master
+  259  ls
+  260  git push origin master
+  261  git pull
+  262  git push origin master
+  263  git status
+  264  git add HelloWorld.java
+  265  git status
+  266  git push origin master
+  267  git push origin master
+  268  git commit
+  269  ls
+  270  cd OneDrive
+  271  cd Desktop
+  272  cd Lab6
+  273  ls
+  274  git status
+  275  git commit -m "Added today's date"
+  276  git push -u origin master
+  277  history
+  248  cd HelloWorld.java
+  249  cd HelloWorld
+  250  ls
+  251  cd OneDrive/Desktop
+  252  ls
+  253  Lab6
+  254  cd Lab 6
+  255  cd Lab6
+  256  ls
+  257  vim
+  258  ls
+  259  git remote -v
+  260  git remote rm origin
+  261  git remote -v
+  262  git remote add origin https://github.com/Cortes-Ces/RepoMeta.git
+  263  git remote -v
+  264  git remote rm origin
+  265  git remote add origin https://github.com/Cortes-Ces/Repo1.git
+  266  git add .
+  267  git commit -m "First commit"
+  268  git push origin main
+  269  git push origin master
+  270  ls
+  271  HelloWorld.java
+  272  vim HelloWorld.java
+  273  history
